@@ -1,2 +1,2 @@
 # workaround
-gat練習用遊び場
+gbt練習用遊び場
